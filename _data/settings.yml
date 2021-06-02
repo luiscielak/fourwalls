@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image:
-  logo_width: 200
+  logo_image: /images/logo.jpg
+  logo_width: 180
 
 menu_settings:
   menu_items:
@@ -66,9 +66,9 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  accent_color: '#dddddd'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
+  overlay_background_color: '#111111'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
