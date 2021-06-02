@@ -5,14 +5,14 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/projects/sparta-lakehouse/sparta-lakehouse_05.jpg'
 ---
 
-![](/images/projects/sparta-lakehouse/sparta-lakehouse_01.jpg)
+![]({{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_01.jpg)
 
 <div class="gallery" data-columns="2">
   <img src="{{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_02.jpg">
   <img src="{{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_05.jpg">
 </div>
 
-![](/images/projects/sparta-lakehouse/sparta-lakehouse_07.jpg)
+![]({{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_07.jpg)
 
 <div class="gallery" data-columns="4">
   <img src="{{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_09.jpg">
@@ -21,7 +21,7 @@ featured_image: '/images/projects/sparta-lakehouse/sparta-lakehouse_05.jpg'
   <img src="{{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_11.jpg">
 </div>
 
-![](/images/projects/sparta-lakehouse/sparta-lakehouse_16.jpg)
+![]({{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_16.jpg)
 
 <div class="gallery" data-columns="3">
   <img src="{{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_13.jpg">
