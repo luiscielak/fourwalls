@@ -1,9 +1,9 @@
 basic_settings:
   site_title: Four Walls Interior Design
-  favicon_image: /images/favicon.png
+  favicon_image: /fourwalls/images/favicon.png
 
 header_settings:
-  logo_image: /images/logo.gif
+  logo_image: /fourwalls/images/logo.gif
   logo_width: 260
 
 menu_settings:
