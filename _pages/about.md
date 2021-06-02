@@ -17,4 +17,4 @@ Soné's interior designs draw clientele from retail, restaurants & boutique hote
 
 ## Schedule a design consultation
 
-<a href="/" class="button button--large">Book Now</a>
+<a href="/" class="button button--large button--overlay">Book Now</a>

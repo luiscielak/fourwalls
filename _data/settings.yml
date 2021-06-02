@@ -33,14 +33,14 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/4wallsID/'
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/4wallsinteriordesign/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
-  pinterest_url: ''
+  pinterest_url: 'https://www.pinterest.com/4wallsID/'
   medium_url: ''
   quora_url: ''
   amazon_url: ''
@@ -68,9 +68,9 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#dddddd'
   border_color: '#dddddd'
-  overlay_background_color: '#111111'
-  overlay_text_color: '#ffffff'
-  overlay_accent_color: '#2A2F36'
+  overlay_background_color: '#ffffff'
+  overlay_text_color: '#000000'
+  overlay_accent_color: '#000000'
   error_color: '#D64541'
 
 font_settings:

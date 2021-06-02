@@ -21,11 +21,10 @@ featured_image: '/images/projects/sparta-lakehouse/sparta-lakehouse_05.jpg'
   <img src="/images/projects/sparta-lakehouse/sparta-lakehouse_11.jpg">
 </div>
 
-![](/images/projects/sparta-lakehouse/sparta-lakehouse_12.jpg)
+![](/images/projects/sparta-lakehouse/sparta-lakehouse_16.jpg)
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
   <img src="/images/projects/sparta-lakehouse/sparta-lakehouse_13.jpg">
   <img src="/images/projects/sparta-lakehouse/sparta-lakehouse_14.jpg">
   <img src="/images/projects/sparta-lakehouse/sparta-lakehouse_15.jpg">
-  <img src="/images/projects/sparta-lakehouse/sparta-lakehouse_16.jpg">
 </div>
