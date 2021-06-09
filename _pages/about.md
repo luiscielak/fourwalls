@@ -1,7 +1,7 @@
 ---
 title: About Four Walls
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+description: Interior design.
+featured_image: /images/sone/sone-ehabe_11.jpg
 ---
 
 Using design to empower the people within it to create, grow and prosper. Inspiring growth and positive change through the innovative design. Being fully conscious
@@ -11,7 +11,7 @@ The other day I was asked why I love using vintage pieces and reclaimed material
 
 ![]({{site.baseurl}}/images/sone/sone-ehabe_11.jpg)
 
-## Sone Ehabe
+## Soné Ehabé
 
 Soné's interior designs draw clientele from retail, restaurants & boutique hotels in Philadelphia and beyond. The spaces she designs encompass the people inhabiting them which allows for a certain design freedom that isn’t restrained by passing trends or a particular style. Spaces that tell a story that create the blueprint for a room that highlights integrity and character.
 
