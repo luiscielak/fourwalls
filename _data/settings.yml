@@ -12,8 +12,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Press'
-      url: '/press'
+    - title: 'Blog'
+      url: '/blog'
     - title: 'Contact'
       url: '/contact'
     - title: 'Client Login'
@@ -29,7 +29,7 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/mvodavzr'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
