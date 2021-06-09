@@ -1,13 +1,10 @@
 ---
 title: About Four Walls
 description: Interior design.
+subtitle: "Using design to empower the people within it to create, grow and prosper. Inspiring growth and positive change through the innovative design. Being fully conscious
+Contentious living and working spaces. The other day I was asked why I love using vintage pieces and reclaimed material in the spaces I design. It’s so important to me to create an experience and tell a story. Reclaimed and vintage pieces have so much history that they create an additional layer of depth and Individuality newer pieces can’t compete with."
 featured_image: /images/sone/sone-ehabe_11.jpg
 ---
-
-Using design to empower the people within it to create, grow and prosper. Inspiring growth and positive change through the innovative design. Being fully conscious
-Contentious living and working spaces.
-
-The other day I was asked why I love using vintage pieces and reclaimed material in the spaces I design. It’s so important to me to create an experience and tell a story. Reclaimed and vintage pieces have so much history that they create an additional layer of depth and Individuality newer pieces can’t compete with.
 
 ![]({{site.baseurl}}/images/sone/sone-ehabe_11.jpg)
 
