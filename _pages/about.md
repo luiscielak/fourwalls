@@ -6,8 +6,6 @@ featured_image: /images/sone/sone-ehabe_11.jpg
 
 ---
 
-{{site.baseurl}}
-
 ![]({{site.baseurl}}/images/sone/sone-ehabe_11.jpg)
 
 > "I design spaces that tell a story that create the blueprint for a room that highlights integrity and character."
