@@ -3,7 +3,7 @@ title: &nbsp;
 subtitle: &nbsp;
 ---
 
-## Contact
+# Contact
 
 <br>
 
@@ -17,6 +17,6 @@ subtitle: &nbsp;
 
 ---
 
-## Don't be a stranger
+### Don't be a stranger
 
 {% include contact-form.html %}
