@@ -366,7 +366,7 @@ section {
 	}
 
 	@include mq(laptop) {
-		margin-top: 80px;
+		margin-top: 20px;
 	}
 }
 
@@ -374,7 +374,7 @@ section {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 30px;
-	// max-width: 500px;
+	max-width: 500px;
 
 	@include mq(tabletp) {
 		padding: 0;
