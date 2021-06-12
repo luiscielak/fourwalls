@@ -1,6 +1,6 @@
 ---
-title: &nbsp;
-subtitle: &nbsp;
+title:
+subtitle:
 ---
 
 # Contact

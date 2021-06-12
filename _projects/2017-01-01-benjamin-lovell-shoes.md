@@ -26,3 +26,15 @@ featured_image: '/images/projects/benjamin-lovell-shoes/benjamin-lovell-shoes_00
   <img src="{{site.baseurl}}/images/projects/benjamin-lovell-shoes/benjamin-lovell-shoes_47.jpg">
   <img src="{{site.baseurl}}/images/projects/benjamin-lovell-shoes/benjamin-lovell-shoes_71.jpg">
 </div>
+
+<br>
+<hr>
+<br>
+
+>"Sone brought fantastic ideas to our projects and was excellent at integrating them with our requirements to create beautiful and functional spaces for our retail footwear business. After two successful store openings, we will enthusiastically continue using her for designing our new locations and remodels."
+>
+> -- <cite>H.N. _Benjamin Lovell_</cite>
+
+
+<br>
+<hr>

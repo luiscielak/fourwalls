@@ -209,6 +209,7 @@
 	font-weight: $menu-weight;
 	color: $overlay-text-color;
 	padding: 10px 0;
+	text-transform: uppercase;
 
 	&:hover {
 		color: $overlay-accent-color;

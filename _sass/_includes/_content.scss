@@ -7,6 +7,9 @@
 .intro {
 
 	h1 {
+		text-transform: uppercase;
+		font-size: 20px;
+    letter-spacing: 0.55px;
 
 		@include mq(tabletp) {
 			white-space: pre-line;
