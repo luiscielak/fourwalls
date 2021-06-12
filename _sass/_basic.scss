@@ -38,6 +38,7 @@ h1, .h1 {
 	font-weight: $h1-weight;
 	line-height: $h1-lineheight;
 	letter-spacing: $h1-spacing;
+	text-transform: uppercase;
 
 	@include mq(tabletp) {
 		font-size: $h1-medium;

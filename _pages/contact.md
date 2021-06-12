@@ -3,10 +3,6 @@ title:
 subtitle:
 ---
 
-# Contact
-
-<br>
-
 **Four Walls Interior Design**
 
 (215) 983-9028
@@ -17,6 +13,6 @@ subtitle:
 
 ---
 
-### Don't be a stranger
+#### Don't be a stranger
 
 {% include contact-form.html %}
