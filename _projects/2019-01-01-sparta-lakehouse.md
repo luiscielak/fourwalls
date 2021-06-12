@@ -2,7 +2,7 @@
 title: 'Sparta Lakehouse'
 date: 2018-06-30 00:00:00
 description: Sparta Lakehouse Interior Design
-featured_image: '/images/projects/sparta-lakehouse/sparta-lakehouse_05.jpg'
+featured_image: '/images/projects/sparta-lakehouse/sparta-lakehouse_00.jpg'
 ---
 
 ![]({{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_01.jpg)

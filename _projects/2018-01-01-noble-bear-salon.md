@@ -2,7 +2,7 @@
 title: 'Noble Bear Salon'
 date: 2018-06-30 00:00:00
 description: Noble Bear Salon Interior Design
-featured_image: '/images/projects/noble-bear-salon/noble-bear-salon_01.jpg'
+featured_image: '/images/projects/noble-bear-salon/noble-bear-salon_00.jpg'
 ---
 
 
