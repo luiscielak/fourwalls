@@ -14,7 +14,6 @@ featured_image: /images/sone/sone-ehabe_11.jpg
 
 Soné's interior designs draw clientele from retail, restaurants & boutique hotels in Philadelphia and beyond. The spaces she designs encompass the people inhabiting them which allows for a certain design freedom that isn’t restrained by passing trends or a particular style.
 
-
 <a href="https://calendly.com/4wallsid/30min" class="button button--large button--overlay">Schedule a consultation</a>
 
 <br><br>

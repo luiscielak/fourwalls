@@ -36,5 +36,4 @@ featured_image: '/images/projects/sparta-lakehouse/sparta-lakehouse_00.jpg'
 <div class="gallery" data-columns="2">
   <img src="{{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_19.jpg">
   <img src="{{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_30.jpg">
-
 </div>
