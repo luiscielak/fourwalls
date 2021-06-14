@@ -2,14 +2,11 @@
 title: Soné Ehabé
 description: Four Walls Interior Design
 subtitle: Principal Designer
-featured_image: /images/sone/sone-ehabe_11.jpg
+featured_image: /images/sone-ehabe.jpg
 
 ---
 
-![]({{site.baseurl}}/images/sone/sone-ehabe_11.jpg)
-
-
-![]({{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_01.jpg)
+![]({{site.baseurl}}/images/sone-ehabe.jpg)
 
 
 > "I design spaces that tell a story that create the blueprint for a room that highlights integrity and character."
