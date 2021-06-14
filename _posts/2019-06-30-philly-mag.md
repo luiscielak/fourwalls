@@ -1,105 +1,34 @@
 ---
-title: 'Demo Post'
-date: 2018-06-30 00:00:00
+title: 'Philly Mag'
+date: 2019-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/press/press-01.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![]({{site.baseurl}}/images/press/press-01.png)
 
-## Demo content
+_Soné Ehabé, photographed at the Noble Bear Salon in Ambler. Photograph by Trevor Dixon._
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+### [Meet the 9 Interior Designers Who Are Changing How Philly Looks Right Now](https://www.phillymag.com/property/philadelphia-interior-designers/)
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-You can create lists:
+**The Laid-Back Industrialist:** Soné Ehabé
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+_Owner of 4Walls Interior Design, Kensington_
 
-And:
+**How you know her:** The commercial portfolio of this 36-year-old up-and-comer is small but mighty: the renovations of four [Benjamin Lovell Shoes locations](../project/benjamin-lovell-shoes), and the Western-tinged cool of [Noble Bear Salon](../project/noble-bear-salon), arguably Ambler’s most stylish spot.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+**What she loves now:** Different shades of green.
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+**What she’s over:** Glass tile backsplashes and shiny cabinets.
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+**Favorite material to work with:** Wood. “I love that you can cut one piece in a different way and it takes on a totally different feel, and that each species takes stain a different way.”
 
-The theme also supports markdown tables:
+**Go-to source list:** Provenance for architectural elements, City Planter and Stump for greenery, and Garden State Tile for tile.
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+**What she’s working on:** A boutique nail salon at 6th and South and a speakeasy-style restaurant in Ventnor.
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+<hr>
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Source: [phillymag.com/property/philadelphia-interior-designers](https://www.phillymag.com/property/philadelphia-interior-designers/)
