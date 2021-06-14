@@ -8,6 +8,10 @@ featured_image: /images/sone/sone-ehabe_11.jpg
 
 ![]({{site.baseurl}}/images/sone/sone-ehabe_11.jpg)
 
+
+![]({{site.baseurl}}/images/projects/sparta-lakehouse/sparta-lakehouse_01.jpg)
+
+
 > "I design spaces that tell a story that create the blueprint for a room that highlights integrity and character."
 
 ---
