@@ -6,11 +6,10 @@ featured_image: '/images/press/press-01.png'
 
 ![]({{site.baseurl}}/images/press/press-01.png)
 
-_Soné Ehabé, photographed at the Noble Bear Salon in Ambler. Photograph by Trevor Dixon._
 
 ### [Meet the 9 Interior Designers Who Are Changing How Philly Looks Right Now](https://www.phillymag.com/property/philadelphia-interior-designers/)
 
-
+by EMILY GOULET
 
 **The Laid-Back Industrialist:** Soné Ehabé
 

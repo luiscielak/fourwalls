@@ -6,8 +6,6 @@ featured_image: '/images/press/press-03.png'
 
 ![]({{site.baseurl}}/images/press/press-03.png)
 
-_Soné Ehabé, photographed at the Noble Bear Salon in Ambler. Photograph by Trevor Dixon._
-
 ### [PSA: These 22 IKEA Entryway Ideas Are Interior Designer-Approved](https://www.mydomaine.com/ikea-entryway-ideas-4689203)
 
 by MEGAN BEAUCHAMP
