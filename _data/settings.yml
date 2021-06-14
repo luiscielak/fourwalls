@@ -76,7 +76,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=EB+Garamond:300,400,600,700" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700" rel="stylesheet">'
   title_font: '"Lato", sans-serif'
   body_font: '"Lato", sans-serif'
   regular_weight: 400
