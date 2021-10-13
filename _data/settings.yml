@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /fourwalls/images/logo-wide.png
+  logo_image: /images/logo-wide.png
   logo_width: 360
 
 menu_settings:
