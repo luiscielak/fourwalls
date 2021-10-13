@@ -1,7 +1,7 @@
 site: Four Walls
 
-url: https://luiscielak.github.io
-baseurl: /fourwalls
+url:
+baseurl:
 
 collections:
   pages:
