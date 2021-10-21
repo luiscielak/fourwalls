@@ -24,7 +24,7 @@ featured_image: '/images/projects/nuckys-restaurant/nuckys-restaurant_00.jpg'
 
 <div class="gallery" data-columns="2">
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_14.jpg">
-  <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_06.jpg">
+  <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_19.jpg">
 </div>
 
 
@@ -36,7 +36,7 @@ featured_image: '/images/projects/nuckys-restaurant/nuckys-restaurant_00.jpg'
 
 <div class="gallery" data-columns="3">
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_18.jpg">
-  <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_19.jpg">
+  <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_06.jpg">
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_20.jpg">  
 </div>
 
