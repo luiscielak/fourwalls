@@ -6,8 +6,7 @@ featured_image: /images/sone-ehabe.jpg
 
 ---
 
-![]({{site.baseurl}}/images/sone-ehabe.jpg)
-
+![]({{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_24.jpg)
 
 > "I design spaces that tell a story that create the blueprint for a room that highlights integrity and character."
 
