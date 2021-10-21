@@ -27,7 +27,6 @@ featured_image: '/images/projects/nuckys-restaurant/nuckys-restaurant_00.jpg'
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_06.jpg">
 </div>
 
-![]({{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_13.jpg)
 
 <div class="gallery" data-columns="2">
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_16.jpg">
