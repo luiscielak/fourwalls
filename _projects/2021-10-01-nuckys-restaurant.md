@@ -12,7 +12,7 @@ featured_image: '/images/projects/nuckys-restaurant/nuckys-restaurant_00.jpg'
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_09.jpg">
 </div>
 
-![]({{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_04.jpg)
+![]({{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_08.jpg)
 
 <div class="gallery" data-columns="2">
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_11.jpg">
@@ -32,9 +32,6 @@ featured_image: '/images/projects/nuckys-restaurant/nuckys-restaurant_00.jpg'
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_16.jpg">
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_17.jpg">
 </div>
-
-
-![]({{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_08.jpg)
 
 
 <div class="gallery" data-columns="3">
