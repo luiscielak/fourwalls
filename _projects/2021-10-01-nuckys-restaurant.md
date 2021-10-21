@@ -1,5 +1,5 @@
 ---
-title: 'Nuckys Restaurant'
+title: 'Nuckys Kitchen & Speakeasy'
 date: 2021-10-01 00:00:00
 description: Nuckys Kitchen & Speakeasy Interior Design
 featured_image: '/images/projects/nuckys-restaurant/nuckys-restaurant_00.jpg'
