@@ -12,7 +12,10 @@ featured_image: '/images/projects/nuckys-restaurant/nuckys-restaurant_00.jpg'
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_09.jpg">
 </div>
 
-![]({{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_08.jpg)
+
+<div class="gallery" data-columns="1">
+  <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_08.jpg">
+</div>
 
 <div class="gallery" data-columns="2">
   <img src="{{site.baseurl}}/images/projects/nuckys-restaurant/nuckys-restaurant_11.jpg">
