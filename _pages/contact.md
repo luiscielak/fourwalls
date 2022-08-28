@@ -9,7 +9,7 @@ subtitle:
 
 1516 N. 5th St. Philadelphia, PA
 
-<a href="https://calendly.com/4wallsid/30min" class="button button--large button--overlay">Schedule a consultation</a>
+<a href="https://calendly.com/4wallsid/design-discovery" class="button button--large button--overlay">Schedule a consultation</a>
 
 ---
 
